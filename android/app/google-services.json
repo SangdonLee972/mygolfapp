@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53757301789",
+    "project_id": "test-5ab44",
+    "storage_bucket": "test-5ab44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53757301789:android:3b745e3b2c33eb45ec22f4",
+        "android_client_info": {
+          "package_name": "com.devproffer.project_golf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHSA0Ge8-NRij5qfle_bU-NqwkcXNA7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
